@@ -9,7 +9,6 @@ namespace WatcherService.AutoMapper
         public MappingConfig()
         {
             CreateMap<UpdateWatcherSettingsRequestDto, UpdateWatcherSettingsRequest>().ReverseMap();
-           // CreateMap<FileMetadata, FileMetadata>().ReverseMap();
         }
     }
 }

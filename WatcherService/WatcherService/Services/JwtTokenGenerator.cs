@@ -12,8 +12,6 @@ namespace WatcherService.Services
         public string CreateToken(string iss, int time, string sharedSecret)
         {
             var exp = DateTime.UtcNow.AddMinutes(time);
-            //var exp = now.AddMinutes(time);
-
 
             var tokenHndler = new JwtSecurityTokenHandler();
             var keyBytes = SHA256.HashData(Encoding.UTF8.GetBytes(sharedSecret));
@@ -23,8 +21,8 @@ namespace WatcherService.Services
 
             var tokenDescriptor = new SecurityTokenDescriptor
             {
-                Issuer = iss,                 // iss claim
-                Expires = exp,    // exp claim (בדיוק 5 דקות)
+                Issuer = iss,          
+                Expires = exp,    
                 SigningCredentials = SigningCredentials
             };
 

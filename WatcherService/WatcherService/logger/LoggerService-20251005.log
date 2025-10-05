@@ -46,3 +46,9 @@
 2025-10-05 16:36:52.233 +03:00 [INF] End processing HTTP request after 703.6228ms - 200
 2025-10-05 16:36:52.408 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\Prospectus - Cyber Security - 2023 (1).docx to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133652395__Prospectus - Cyber Security - 2023 (1).docx
 2025-10-05 16:36:52.536 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133515652__חי פלטשי מטלת הטמעה 9.pdf
+2025-10-05 17:13:26.945 +03:00 [INF] Start processing HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 17:13:27.096 +03:00 [INF] Sending HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 17:13:28.049 +03:00 [INF] Received HTTP response headers after 943.3163ms - 200
+2025-10-05 17:13:28.061 +03:00 [INF] End processing HTTP request after 1185.0027ms - 200
+2025-10-05 17:13:28.077 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\lect2_cont_cor-01-04-16 (4).pptx to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005141328068__lect2_cont_cor-01-04-16 (4).pptx
+2025-10-05 17:13:28.092 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133528356__Lucks-2002-Fast_Software_Encryption,_8th_International_Workshop,_FSE_2001_Yokohama,_Japan,_April....pdf

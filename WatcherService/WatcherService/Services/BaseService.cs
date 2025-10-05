@@ -87,7 +87,7 @@ namespace WatcherService.Services
                             ErrorMessages = "500 Internal Server Error"
                         };
                     }
-                case HttpStatusCode.OK:               // 404
+                case HttpStatusCode.OK:               // OK
                     {
                         return new APIResponse
                         {
@@ -97,7 +97,7 @@ namespace WatcherService.Services
                     }
                 default:
                     {
-                        return new APIResponse       //OK
+                        return new APIResponse       //problem
                         {
                             IsSuccess = false,
                             StatusCode = apiResponse.StatusCode,

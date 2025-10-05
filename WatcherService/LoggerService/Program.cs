@@ -40,24 +40,6 @@ builder.Services
             ValidateIssuerSigningKey = true,
             IssuerSigningKey = new SymmetricSecurityKey(keyBytes)
         };
-        //options.Events = new JwtBearerEvents
-        //{
-        //    OnTokenValidated = ctx =>
-        //    {
-        //        Console.WriteLine("[JWT] OK. iss=" + ctx.Principal?.FindFirst("iss")?.Value);
-        //        return Task.CompletedTask;
-        //    },
-        //    OnAuthenticationFailed = ctx =>
-        //    {
-        //        Console.WriteLine("[JWT] FAIL: " + ctx.Exception.Message);
-        //        return Task.CompletedTask;
-        //    },
-        //    OnChallenge = ctx =>
-        //    {
-        //        Console.WriteLine("[JWT] 401 Challenge (missing/invalid token)");
-        //        return Task.CompletedTask;
-        //    }
-        //};
     });
 
 builder.Logging.ClearProviders();

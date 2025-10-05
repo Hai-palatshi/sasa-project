@@ -6,6 +6,5 @@ namespace WatcherService.Services.IServices
     public interface IBaseService
     {
         public Task<APIResponse> SendAsync(RequestDetails apiRequest);
-
     }
 }

@@ -6,6 +6,5 @@ namespace WatcherService.Services.IServices
     public interface IApiManageService
     {
         public Task<APIResponse> PostData(FileMetadata data,string token);
-
     }
 }

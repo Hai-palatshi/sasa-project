@@ -19,6 +19,7 @@ builder.Services.AddSwaggerGen();
 //****************************AutoMapper********************************
 builder.Services.AddAutoMapper(typeof(MappingConfig));
 //**********************************************************************
+
 var contentRoot = builder.Environment.ContentRootPath; 
 var filePath = Path.Combine(contentRoot, "configFile", "WatcherSettings.json");
 
@@ -27,12 +28,17 @@ builder.Configuration.AddJsonFile(filePath, optional: false, reloadOnChange: tru
 
 //****************************DI services**********************************
 builder.Services.AddScoped<IConfigService, ConfigService>();
-
-//builder.Services.AddSingleton<IWatchFolderService, WatchFolderService>();
-//builder.Services.AddSingleton<IHostedService>(sp =>
-//    (WatchFolderService)sp.GetRequiredService<IWatchFolderService>());
-
 builder.Services.AddHostedService<WatchFolderService>();
+
+builder.Services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
+builder.Services.AddSingleton<IBaseService, BaseService>();
+builder.Services.AddSingleton<IApiManageService, ApiManageService>();
+
+builder.Services.AddSingleton<IFileMover, FileMover>();
+
+builder.Services.AddHttpClient();
+//**********************************************************************
+
 
 //******************serylog***************************************
 
@@ -42,7 +48,7 @@ var root = builder.Environment.ContentRootPath;
 var filePathLog = Path.Combine(contentRoot, "logger/LoggerService-.log");
 
 Log.Logger = new LoggerConfiguration()
-    .MinimumLevel.Information()                 // רמת ברירת מחדל
+    .MinimumLevel.Information()                 
     .MinimumLevel.Override("Microsoft", Serilog.Events.LogEventLevel.Warning)
     .Enrich.FromLogContext()
     .Enrich.WithMachineName()
@@ -56,16 +62,6 @@ Log.Logger = new LoggerConfiguration()
 
 builder.Host.UseSerilog();
 
-//*****************************************************************************************
-
-builder.Services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
-builder.Services.AddSingleton<IBaseService, BaseService>();
-builder.Services.AddSingleton<IApiManageService, ApiManageService>();
-
-builder.Services.AddSingleton<IFileMover, FileMover>();    
-
-builder.Services.AddHttpClient();
-//*************************************************************************
 
 var app = builder.Build();
 

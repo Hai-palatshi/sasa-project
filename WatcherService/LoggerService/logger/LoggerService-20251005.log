@@ -22,3 +22,7 @@
 2025-10-05 16:36:03.434 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 45.9021 ms
 2025-10-05 16:36:52.033 +03:00 [INF] Log TXT created for Prospectus - Cyber Security - 2023 (1).docx
 2025-10-05 16:36:52.114 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 91.4294 ms
+2025-10-05 17:12:47.215 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 286.2173 ms
+2025-10-05 17:12:47.808 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 196.7394 ms
+2025-10-05 17:13:28.023 +03:00 [INF] Log TXT created for lect2_cont_cor-01-04-16 (4).pptx
+2025-10-05 17:13:28.032 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 812.0691 ms
