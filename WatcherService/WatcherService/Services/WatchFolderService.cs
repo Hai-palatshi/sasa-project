@@ -4,26 +4,30 @@ using WatcherService.Services.IServices;
 using System.Security.Cryptography;
 using WatcherService.Models.DTO;
 using System.Net;
+using Serilog;
+using System.IO;
 
 namespace WatcherService.Services;
 
 public class WatchFolderService : BackgroundService
 {
+    private const int FileSettleDelayMs = 1000;
+
     private readonly IWebHostEnvironment env;
-    private FileSystemWatcher _fsw;
+    private FileSystemWatcher? _fsw;
     private readonly IJwtTokenGenerator jwtTokenGenerator;
     private readonly IApiManageService apiManageService;
     private readonly IConfiguration configFile;
     private readonly IFileMover fileMover;
-    ILogger<WatchFolderService> log;
+    private readonly ILogger<WatchFolderService> log;
 
-    private string WatchedPath;
-    private string issuer;
-    private int exp;
-    private string targetPath;
-    private string Secret;
-    private string enviromentKey;
-
+    private readonly string watchedPath = string.Empty;
+    private readonly string issuer = string.Empty;
+    private readonly int exp;
+    private readonly string targetPath = string.Empty;
+    private readonly string secret = string.Empty;
+    private readonly string? environmentKey;
+    private readonly int limitFileToSave;
 
     public WatchFolderService(ILogger<WatchFolderService> _log, IConfiguration _configFile, IWebHostEnvironment _env,
         IJwtTokenGenerator _jwtTokenGenerator, IApiManageService _apiManageService, IFileMover _fileMover)
@@ -35,18 +39,18 @@ public class WatchFolderService : BackgroundService
         fileMover = _fileMover;
         log = _log;
 
-
-        enviromentKey = configFile["JWT_SECRET"];
-        WatchedPath = configFile["WatchedPath"];
-        issuer = configFile["Issuer"];
-        exp = int.Parse(configFile["TokenTTLMinutes"]);
-        targetPath = configFile["ProcessedPath"];
-        Secret = configFile["Secret"];
+        environmentKey = configFile["JWT_SECRET"];
+        watchedPath = configFile.GetValue<string>("WatchedPath") ?? string.Empty;
+        issuer = configFile.GetValue<string>("Issuer") ?? string.Empty;
+        targetPath = configFile.GetValue<string>("ProcessedPath") ?? string.Empty;
+        secret = configFile.GetValue<string>("Secret") ?? string.Empty;
+        exp = configFile.GetValue<int>("TokenTTLMinutes");
+        limitFileToSave = configFile.GetValue<int>("LimitFileToSave");
     }
 
     protected override Task ExecuteAsync(CancellationToken stoppingToken)
     {
-        var folder = Path.Combine(env.ContentRootPath, WatchedPath);
+        var folder = Path.Combine(env.ContentRootPath, watchedPath);
         Directory.CreateDirectory(folder);
 
         _fsw = new FileSystemWatcher(folder)
@@ -64,44 +68,19 @@ public class WatchFolderService : BackgroundService
             if (_fsw != null)
             {
                 _fsw.Created -= OnCreated;
-                //_fsw.Changed -= OnChanged;
+                _fsw.Changed -= OnChanged;
                 _fsw.Dispose();
                 _fsw = null;
             }
         });
         return Task.CompletedTask;
     }
-    //public Task StartAsync(CancellationToken ct)
-    //{
-    //    var folder = Path.Combine(env.ContentRootPath, "watched");
-
-    //    Directory.CreateDirectory(folder);
-
-    //    _fsw = new FileSystemWatcher(folder)
-    //    {
-    //        NotifyFilter = NotifyFilters.FileName,
-    //        EnableRaisingEvents = true
-    //    };
-    //    _fsw.Created += OnCreated;
-    //    return Task.CompletedTask;
-    //}
-
-    //public Task StopAsync(CancellationToken ct)
-    //{
-    //    if (_fsw is not null)
-    //    {
-    //        _fsw.Created -= OnCreated;
-    //        _fsw.Dispose();
-    //        _fsw = null;
-    //    }
-    //    return Task.CompletedTask;
-    //}
 
     private async void OnCreated(object? sender, FileSystemEventArgs e)
     {
         try
         {
-            await Task.Delay(1000);
+            await Task.Delay(FileSettleDelayMs);
             await Process(e.FullPath);
         }
         catch (Exception ex)
@@ -144,19 +123,14 @@ public class WatchFolderService : BackgroundService
                 hash = hash
             };
 
-            //var issuer = configFile["Issuer"];
-            //var exp = configFile["TokenTTLMinutes"];
-            //var targetPath = configFile["ProcessedPath"];
-            if (string.IsNullOrWhiteSpace(issuer) || string.IsNullOrWhiteSpace(exp.ToString()) || string.IsNullOrWhiteSpace(targetPath))
+            if (string.IsNullOrWhiteSpace(issuer) || exp <= 0 || string.IsNullOrWhiteSpace(targetPath))
             {
                 log.LogError("Configuration values are missing or invalid.");
                 return;
             }
 
-            var signingKey = string.IsNullOrWhiteSpace(enviromentKey) ? Secret : enviromentKey;
-
+            var signingKey = string.IsNullOrWhiteSpace(environmentKey) ? secret : environmentKey;
             token = jwtTokenGenerator.CreateToken(issuer, exp, signingKey);
-            
 
             var result = await apiManageService.PostData(metadata, token);
 
@@ -167,7 +141,7 @@ public class WatchFolderService : BackgroundService
                 Directory.CreateDirectory(folder);
 
                 fileMover.MoveFile(fullPath, Path.Combine(env.ContentRootPath, targetPath), fi.Name);
-                fileMover.CountFiles_Delete_LIMIT(folder, 5);
+                fileMover.CountFiles_Delete_LIMIT(folder, limitFileToSave);
             }
         }
         catch (Exception ex)

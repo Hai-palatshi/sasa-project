@@ -1,0 +1,48 @@
+2025-10-05 16:29:12.970 +03:00 [INF] Start processing HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:29:13.037 +03:00 [INF] Sending HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:29:13.691 +03:00 [INF] Received HTTP response headers after 644.8947ms - 200
+2025-10-05 16:29:13.708 +03:00 [INF] End processing HTTP request after 753.0665ms - 200
+2025-10-05 16:29:36.874 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\ציונים תואר שני.pdf to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005132936856__ציונים תואר שני.pdf
+2025-10-05 16:29:36.884 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251004165500885__מטלה ראשונה ענן (1).doc
+2025-10-05 16:34:30.011 +03:00 [INF] Start processing HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:34:30.096 +03:00 [INF] Sending HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:34:30.600 +03:00 [INF] Received HTTP response headers after 497.6633ms - 200
+2025-10-05 16:34:30.608 +03:00 [INF] End processing HTTP request after 616.8387ms - 200
+2025-10-05 16:34:36.849 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\Encryption And Decryption Of Text Files (3).pptx to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133436838__Encryption And Decryption Of Text Files (3).pptx
+2025-10-05 16:34:36.865 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251004175154216__classification_of_covid_19_v17_0_1.py
+2025-10-05 16:35:15.048 +03:00 [INF] Start processing HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:35:15.471 +03:00 [INF] Sending HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:35:15.639 +03:00 [INF] Received HTTP response headers after 152.3903ms - 200
+2025-10-05 16:35:15.646 +03:00 [INF] End processing HTTP request after 601.6707ms - 200
+2025-10-05 16:35:15.654 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\חי פלטשי מטלת הטמעה 9.pdf to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133515652__חי פלטשי מטלת הטמעה 9.pdf
+2025-10-05 16:35:15.698 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251004180414506__Spam Detection Using Text Clustering.docx
+2025-10-05 16:35:27.905 +03:00 [INF] Start processing HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:35:28.193 +03:00 [INF] Sending HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:35:28.334 +03:00 [INF] Received HTTP response headers after 90.6752ms - 200
+2025-10-05 16:35:28.347 +03:00 [INF] End processing HTTP request after 442.3221ms - 200
+2025-10-05 16:35:28.359 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\Lucks-2002-Fast_Software_Encryption,_8th_International_Workshop,_FSE_2001_Yokohama,_Japan,_April....pdf to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133528356__Lucks-2002-Fast_Software_Encryption,_8th_International_Workshop,_FSE_2001_Yokohama,_Japan,_April....pdf
+2025-10-05 16:35:28.395 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251004183225629__Prospectus - Cyber Security - 2023 (2) (1) (1).docx
+2025-10-05 16:35:43.197 +03:00 [INF] Start processing HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:35:43.230 +03:00 [INF] Sending HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:35:43.398 +03:00 [INF] Received HTTP response headers after 164.0087ms - 200
+2025-10-05 16:35:43.819 +03:00 [INF] End processing HTTP request after 623.0758ms - 200
+2025-10-05 16:35:43.976 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\63012 Assignment 3.pdf to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133543973__63012 Assignment 3.pdf
+2025-10-05 16:35:44.098 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251004183312854__-_ (1).pdf
+2025-10-05 16:35:56.407 +03:00 [INF] Start processing HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:35:56.597 +03:00 [INF] Sending HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:35:56.762 +03:00 [INF] Received HTTP response headers after 86.1766ms - 200
+2025-10-05 16:35:56.799 +03:00 [INF] End processing HTTP request after 392.5018ms - 200
+2025-10-05 16:35:56.828 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\Encryption And Decryption Of Text Files (1).pptx to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133556807__Encryption And Decryption Of Text Files (1).pptx
+2025-10-05 16:35:56.887 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005132936856__ציונים תואר שני.pdf
+2025-10-05 16:36:03.129 +03:00 [INF] Start processing HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:36:03.339 +03:00 [INF] Sending HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:36:03.456 +03:00 [INF] Received HTTP response headers after 70.3047ms - 200
+2025-10-05 16:36:03.625 +03:00 [INF] End processing HTTP request after 495.8669ms - 200
+2025-10-05 16:36:03.907 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\Encryption And Decryption Of Text Files.pptx to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133603864__Encryption And Decryption Of Text Files.pptx
+2025-10-05 16:36:04.025 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133436838__Encryption And Decryption Of Text Files (3).pptx
+2025-10-05 16:36:51.530 +03:00 [INF] Start processing HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:36:51.610 +03:00 [INF] Sending HTTP request POST https://localhost:5000/api/logger/log
+2025-10-05 16:36:52.211 +03:00 [INF] Received HTTP response headers after 595.9018ms - 200
+2025-10-05 16:36:52.233 +03:00 [INF] End processing HTTP request after 703.6228ms - 200
+2025-10-05 16:36:52.408 +03:00 [INF] Moved file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\watched\Prospectus - Cyber Security - 2023 (1).docx to C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133652395__Prospectus - Cyber Security - 2023 (1).docx
+2025-10-05 16:36:52.536 +03:00 [INF] Deleted old log file C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\processed\20251005133515652__חי פלטשי מטלת הטמעה 9.pdf

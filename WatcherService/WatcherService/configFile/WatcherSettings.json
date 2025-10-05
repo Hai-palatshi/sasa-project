@@ -3,5 +3,7 @@
   "ProcessedPath": "processed",
   "LoggerUrl": "https://localhost:5000/api/logger/log",
   "Issuer": "watcher-service",
-  "TokenTTLMinutes": 5
+  "TokenTTLMinutes": 5,
+  "LimitFileToSave":5,
+  "Secret": "sasa-Software2015",
 }

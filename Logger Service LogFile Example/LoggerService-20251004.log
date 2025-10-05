@@ -1,0 +1,130 @@
+2025-10-04 15:30:22.008 +03:00 [INF] Log TXT created for HAI.txt
+2025-10-04 15:39:30.060 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 265.8575 ms
+2025-10-04 15:39:30.456 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 183.3042 ms
+2025-10-04 15:40:55.887 +03:00 [INF] Log TXT created for HAI.txt
+2025-10-04 15:40:58.321 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 17760.3944 ms
+2025-10-04 15:51:32.990 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 193.5152 ms
+2025-10-04 15:51:33.356 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 170.6469 ms
+2025-10-04 15:53:42.069 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 230.7118 ms
+2025-10-04 15:53:42.495 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 223.0215 ms
+2025-10-04 15:54:14.671 +03:00 [INF] HTTP POST /api/logger/log responded 401 in 137.6258 ms
+2025-10-04 15:55:03.786 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 281.0397 ms
+2025-10-04 15:55:04.508 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 377.3022 ms
+2025-10-04 16:41:19.265 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 412.7399 ms
+2025-10-04 16:41:19.729 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 213.9569 ms
+2025-10-04 16:42:28.043 +03:00 [INF] Log TXT created for HAI.txt
+2025-10-04 16:42:29.657 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 23035.8754 ms
+2025-10-04 16:52:41.402 +03:00 [INF] Log TXT created for HAI.txt
+2025-10-04 16:52:43.089 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 5163.3742 ms
+2025-10-04 16:54:41.311 +03:00 [INF] Log TXT created for HAI11.txt
+2025-10-04 16:54:41.743 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 1676.3552 ms
+2025-10-04 16:55:51.971 +03:00 [INF] Log TXT created for HAI112.txt
+2025-10-04 16:55:52.504 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 2530.2754 ms
+2025-10-04 16:57:01.748 +03:00 [INF] Log TXT created for HAI1111.txt
+2025-10-04 16:57:02.924 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 3687.6781 ms
+2025-10-04 16:57:17.379 +03:00 [INF] Log TXT created for HAI111111.txt
+2025-10-04 16:57:18.046 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 2502.7544 ms
+2025-10-04 16:57:41.506 +03:00 [INF] Log TXT created for HAI11111111.txt
+2025-10-04 16:57:42.247 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 2510.6532 ms
+2025-10-04 17:12:12.323 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 271.7401 ms
+2025-10-04 17:12:12.699 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 177.9289 ms
+2025-10-04 17:15:59.871 +03:00 [INF] Log TXT created for H.txt
+2025-10-04 17:15:59.871 +03:00 [INF] Log TXT created for S.txt
+2025-10-04 17:16:03.310 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 16099.1149 ms
+2025-10-04 17:16:03.310 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 16109.8961 ms
+2025-10-04 18:23:59.627 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 112.0938 ms
+2025-10-04 18:23:59.812 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 84.6257 ms
+2025-10-04 18:25:23.269 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 319.5983 ms
+2025-10-04 18:25:23.801 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 225.4784 ms
+2025-10-04 18:25:40.695 +03:00 [INF] Log TXT created for hello.txt
+2025-10-04 18:25:42.001 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 7443.2246 ms
+2025-10-04 18:47:44.907 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 221.3081 ms
+2025-10-04 18:47:45.239 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 128.8501 ms
+2025-10-04 18:48:06.251 +03:00 [INF] Log TXT created for גליון ציונים תואר ראשון ושני (1).pdf
+2025-10-04 18:48:08.007 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 5852.1508 ms
+2025-10-04 18:52:29.016 +03:00 [INF] Log TXT created for Smadar_Cohen_Parent_Guide.pdf
+2025-10-04 18:52:35.598 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 20736.5548 ms
+2025-10-04 18:54:25.409 +03:00 [INF] Log TXT created for Hai Palatshi CV.pdf
+2025-10-04 18:54:25.411 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 11472.1852 ms
+2025-10-04 18:58:12.730 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 171.3695 ms
+2025-10-04 18:58:13.049 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 140.4402 ms
+2025-10-04 18:58:22.824 +03:00 [INF] Log TXT created for Infinity NDA (1).pdf
+2025-10-04 18:58:22.832 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 424.2955 ms
+2025-10-04 19:09:40.359 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 132.5947 ms
+2025-10-04 19:09:40.595 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 115.3678 ms
+2025-10-04 19:09:44.722 +03:00 [INF] Log TXT created for טופס ממליצים (1).pdf
+2025-10-04 19:09:44.730 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 760.5273 ms
+2025-10-04 19:23:05.115 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 299.3020 ms
+2025-10-04 19:23:05.524 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 220.9799 ms
+2025-10-04 19:23:23.244 +03:00 [INF] Log TXT created for סמדר כהן.pdf
+2025-10-04 19:23:23.248 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 382.2253 ms
+2025-10-04 19:25:08.962 +03:00 [INF] Log TXT created for S.txt
+2025-10-04 19:25:08.966 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 27.7532 ms
+2025-10-04 19:26:18.518 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 281.0806 ms
+2025-10-04 19:26:18.869 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 165.6125 ms
+2025-10-04 19:26:43.583 +03:00 [INF] Log TXT created for דף ממליצים (1).pdf
+2025-10-04 19:26:43.591 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 772.4434 ms
+2025-10-04 19:27:30.168 +03:00 [INF] Log TXT created for PersonalFile3078833639880572688193.pdf
+2025-10-04 19:27:30.170 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 19.2964 ms
+2025-10-04 19:28:52.614 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 256.1779 ms
+2025-10-04 19:28:53.267 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 194.3382 ms
+2025-10-04 19:28:59.607 +03:00 [INF] Log TXT created for טופס ממליצים.pdf
+2025-10-04 19:28:59.624 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 425.9390 ms
+2025-10-04 19:29:41.470 +03:00 [INF] Log TXT created for msc-recommendation-form.docx
+2025-10-04 19:29:41.519 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 113.0325 ms
+2025-10-04 19:33:36.783 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 391.3284 ms
+2025-10-04 19:33:37.218 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 188.3053 ms
+2025-10-04 19:34:00.517 +03:00 [INF] Log TXT created for גליון ציונים תואר ראשון ושני.pdf
+2025-10-04 19:34:00.539 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 840.7657 ms
+2025-10-04 19:34:21.831 +03:00 [INF] Log TXT created for rashim_client_reports_ptglz_rashimptglzreport55_25_10_2022_02_37_33_0_Signed (1).pdf
+2025-10-04 19:34:21.833 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 21.8705 ms
+2025-10-04 19:34:31.371 +03:00 [INF] Log TXT created for שינוי מועד דיון.pdf
+2025-10-04 19:34:31.374 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 8.0217 ms
+2025-10-04 19:39:19.927 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 292.6999 ms
+2025-10-04 19:39:20.716 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 364.3576 ms
+2025-10-04 19:39:42.348 +03:00 [INF] Log TXT created for אישור זכאות לתואר.pdf
+2025-10-04 19:39:42.360 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 540.1829 ms
+2025-10-04 19:39:57.030 +03:00 [INF] Log TXT created for נספח 9 - התחייבות המגיש .pdf
+2025-10-04 19:39:57.034 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 21.4992 ms
+2025-10-04 19:51:17.842 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 357.7892 ms
+2025-10-04 19:51:18.235 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 170.3955 ms
+2025-10-04 19:52:01.378 +03:00 [INF] Log TXT created for Themes for projects ADBMS_2024_ (1) (1).docx
+2025-10-04 19:52:01.414 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 464.3096 ms
+2025-10-04 19:52:33.325 +03:00 [INF] Log TXT created for מטלה3 (2).pdf
+2025-10-04 19:52:33.330 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 31.0536 ms
+2025-10-04 19:53:07.617 +03:00 [INF] Log TXT created for 307883363-88.pdf
+2025-10-04 19:53:07.629 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 19.2924 ms
+2025-10-04 19:53:43.380 +03:00 [INF] Log TXT created for BPUC-77-9-L_GlobalState -3 (4).ppt
+2025-10-04 19:53:43.383 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 5.2669 ms
+2025-10-04 19:53:54.344 +03:00 [INF] Log TXT created for נושא 63103 תורת הקירובים הנומריים מועד 1.pdf
+2025-10-04 19:53:54.346 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 5.8432 ms
+2025-10-04 19:54:04.725 +03:00 [INF] Log TXT created for HW3.docx
+2025-10-04 19:54:04.729 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 6.7643 ms
+2025-10-04 19:54:17.837 +03:00 [INF] Log TXT created for מבחן בית פרווקיט  2023AIG.docx
+2025-10-04 19:54:17.840 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 5.6650 ms
+2025-10-04 19:54:50.055 +03:00 [INF] Log TXT created for 307883363-80.pdf
+2025-10-04 19:54:50.063 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 10.6780 ms
+2025-10-04 19:55:00.868 +03:00 [INF] Log TXT created for מטלה ראשונה ענן (1).doc
+2025-10-04 19:55:00.874 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 9.5462 ms
+2025-10-04 20:49:48.478 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 195.7379 ms
+2025-10-04 20:49:49.106 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 210.2609 ms
+2025-10-04 20:51:29.921 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 322.3233 ms
+2025-10-04 20:51:30.556 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 254.3338 ms
+2025-10-04 20:51:54.188 +03:00 [INF] Log TXT created for classification_of_covid_19_v17_0_1.py
+2025-10-04 20:51:54.192 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 288.6441 ms
+2025-10-04 21:03:08.930 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 228.5585 ms
+2025-10-04 21:03:09.398 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 172.7952 ms
+2025-10-04 21:04:14.464 +03:00 [INF] Log TXT created for Spam Detection Using Text Clustering.docx
+2025-10-04 21:04:14.471 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 344.9231 ms
+2025-10-04 21:06:41.490 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 172.5592 ms
+2025-10-04 21:06:41.878 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 209.6484 ms
+2025-10-04 21:15:26.934 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 6540.5683 ms
+2025-10-04 21:15:27.274 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 142.8320 ms
+2025-10-04 21:15:46.334 +03:00 [INF] Log TXT created for NFC - Cyber Security-2023.docx
+2025-10-04 21:15:46.337 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 311.7812 ms
+2025-10-04 21:32:01.215 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 351.6850 ms
+2025-10-04 21:32:02.100 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 311.6704 ms
+2025-10-04 21:32:21.617 +03:00 [INF] Log TXT created for Prospectus - Cyber Security - 2023 (2) (1) (1).docx
+2025-10-04 21:32:21.621 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 338.0808 ms
+2025-10-04 21:32:57.722 +03:00 [INF] Log TXT created for -_ (1).pdf
+2025-10-04 21:32:57.725 +03:00 [INF] HTTP POST /api/logger/log responded 200 in 30.7543 ms

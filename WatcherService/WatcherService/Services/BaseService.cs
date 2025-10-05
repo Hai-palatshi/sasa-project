@@ -55,7 +55,6 @@ namespace WatcherService.Services
 
             if (!string.IsNullOrEmpty(apiRequest.token))
             {
-                // client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiRequest.token);
                 message.Headers.Authorization = new AuthenticationHeaderValue("Bearer", apiRequest.token);
             }
 
@@ -98,7 +97,7 @@ namespace WatcherService.Services
                     }
                 default:
                     {
-                        return new APIResponse
+                        return new APIResponse       //OK
                         {
                             IsSuccess = false,
                             StatusCode = apiResponse.StatusCode,
@@ -106,16 +105,6 @@ namespace WatcherService.Services
                         };
                     }
             }
-
-            //var apiContent = await apiResponse.Content.ReadAsStringAsync();
-            //var apiResponseDTO = JsonConvert.DeserializeObject<APIResponse>(apiContent);
-
-            //return new APIResponse
-            //{
-            //    IsSuccess = true,
-            //    StatusCode = apiResponse.StatusCode,
-            //    ErrorMessages = "everything is ok"
-            //};
         }
     }
 }

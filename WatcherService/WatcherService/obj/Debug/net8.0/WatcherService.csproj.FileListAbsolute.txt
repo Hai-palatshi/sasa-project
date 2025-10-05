@@ -65,3 +65,4 @@ C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\bin\Debug\net
 C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\haipa\OneDrive\Desktop\sasa\WatcherService\WatcherService\obj\Debug\net8.0\WatcherService.sourcelink.json
