@@ -1,0 +1,7 @@
+﻿{
+  "WatchedPath": "watched",
+  "ProcessedPath": "processed",
+  "LoggerUrl": "https://localhost:5000/api/logger/log",
+  "Issuer": "watcher-service",
+  "TokenTTLMinutes": 5
+}

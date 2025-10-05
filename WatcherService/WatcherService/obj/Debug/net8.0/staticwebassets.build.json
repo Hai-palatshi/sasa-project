@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8CaVIjN+wcwIRSFns0wpBrZtaOfzrp6vxTseUNCKuwc=",
+  "Source": "WatcherService",
+  "BasePath": "_content/WatcherService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

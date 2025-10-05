@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\watcherservice\\services\\apimanageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|solutionrelative:watcherservice\\services\\apimanageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\watcherservice\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|solutionrelative:watcherservice\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\watcherservice\\responseapi_http\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|solutionrelative:watcherservice\\responseapi_http\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\watcherservice\\services\\watchfolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|solutionrelative:watcherservice\\services\\watchfolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\watcherservice\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|solutionrelative:watcherservice\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\loggerservice\\controllers\\loggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|solutionrelative:loggerservice\\controllers\\loggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\loggerservice\\responseapi_http\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|solutionrelative:loggerservice\\responseapi_http\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\loggerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|solutionrelative:loggerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\watcherservice\\requestapi_http\\requestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|solutionrelative:watcherservice\\requestapi_http\\requestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\watcherservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|solutionrelative:watcherservice\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\loggerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|solutionrelative:loggerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiManageService.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\ApiManageService.cs",
+              "RelativeDocumentMoniker": "WatcherService\\Services\\ApiManageService.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\ApiManageService.cs",
+              "RelativeToolTip": "WatcherService\\Services\\ApiManageService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:30:24.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\ResponseAPI_Http\\APIResponse.cs",
+              "RelativeDocumentMoniker": "WatcherService\\ResponseAPI_Http\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\ResponseAPI_Http\\APIResponse.cs",
+              "RelativeToolTip": "WatcherService\\ResponseAPI_Http\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:11:57.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\LoggerService\\ResponseAPI_Http\\APIResponse.cs",
+              "RelativeDocumentMoniker": "LoggerService\\ResponseAPI_Http\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\LoggerService\\ResponseAPI_Http\\APIResponse.cs",
+              "RelativeToolTip": "LoggerService\\ResponseAPI_Http\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:18:52.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggerController.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\LoggerService\\Controllers\\LoggerController.cs",
+              "RelativeDocumentMoniker": "LoggerService\\Controllers\\LoggerController.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\LoggerService\\Controllers\\LoggerController.cs",
+              "RelativeToolTip": "LoggerService\\Controllers\\LoggerController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:16:55.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "WatcherService\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\BaseService.cs",
+              "RelativeToolTip": "WatcherService\\Services\\BaseService.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAASwHYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:12:13.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "WatcherService\\Controllers\\ConfigController.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "WatcherService\\Controllers\\ConfigController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:02:44.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WatchFolderService.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\WatchFolderService.cs",
+              "RelativeDocumentMoniker": "WatcherService\\Services\\WatchFolderService.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\WatchFolderService.cs",
+              "RelativeToolTip": "WatcherService\\Services\\WatchFolderService.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAASwJsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:02:44.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestDetails.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\RequestAPI_Http\\RequestDetails.cs",
+              "RelativeDocumentMoniker": "WatcherService\\RequestAPI_Http\\RequestDetails.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\RequestAPI_Http\\RequestDetails.cs",
+              "RelativeToolTip": "WatcherService\\RequestAPI_Http\\RequestDetails.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:11:32.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigService.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\ConfigService.cs",
+              "RelativeDocumentMoniker": "WatcherService\\Services\\ConfigService.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\ConfigService.cs",
+              "RelativeToolTip": "WatcherService\\Services\\ConfigService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:08:40.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\LoggerService\\appsettings.json",
+              "RelativeDocumentMoniker": "LoggerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\LoggerService\\appsettings.json",
+              "RelativeToolTip": "LoggerService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-04T18:05:42.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\LoggerService\\Program.cs",
+              "RelativeDocumentMoniker": "LoggerService\\Program.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\LoggerService\\Program.cs",
+              "RelativeToolTip": "LoggerService\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAASwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:53:27.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
