@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\watcherservice\\services\\watchfolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B5E47-3743-4E31-8F1C-561C55C4F15F}|WatcherService\\WatcherService.csproj|solutionrelative:watcherservice\\services\\watchfolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|c:\\users\\haipa\\onedrive\\desktop\\sasa\\watcherservice\\loggerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030B0164-7D8C-4892-860E-E06CFEB62A58}|LoggerService\\LoggerService.csproj|solutionrelative:loggerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +50,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WatchFolderService.cs",
+              "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\WatchFolderService.cs",
+              "RelativeDocumentMoniker": "WatcherService\\Services\\WatchFolderService.cs",
+              "ToolTip": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\WatchFolderService.cs",
+              "RelativeToolTip": "WatcherService\\Services\\WatchFolderService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:27:44.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\LoggerService\\Program.cs",
               "RelativeDocumentMoniker": "LoggerService\\Program.cs",
@@ -63,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Program.cs",
               "RelativeDocumentMoniker": "WatcherService\\Program.cs",
@@ -71,12 +92,11 @@
               "RelativeToolTip": "WatcherService\\Program.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAAADkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T14:19:12.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T14:19:12.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "WatcherService\\Services\\JwtTokenGenerator.cs",
@@ -84,12 +104,11 @@
               "RelativeToolTip": "WatcherService\\Services\\JwtTokenGenerator.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T14:17:47.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T14:17:47.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\BaseService.cs",
               "RelativeDocumentMoniker": "WatcherService\\Services\\BaseService.cs",
@@ -97,16 +116,11 @@
               "RelativeToolTip": "WatcherService\\Services\\BaseService.cs",
               "ViewState": "AQIAAF0AAAAAAAAAAAAYwGEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T14:15:45.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-10-05T14:15:45.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConfigService.cs",
               "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\ConfigService.cs",
               "RelativeDocumentMoniker": "WatcherService\\Services\\ConfigService.cs",
@@ -119,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IBaseService.cs",
               "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\IServices\\IBaseService.cs",
               "RelativeDocumentMoniker": "WatcherService\\Services\\IServices\\IBaseService.cs",
@@ -127,12 +141,11 @@
               "RelativeToolTip": "WatcherService\\Services\\IServices\\IBaseService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T14:10:55.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T14:10:55.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IApiManageService.cs",
               "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Services\\IServices\\IApiManageService.cs",
               "RelativeDocumentMoniker": "WatcherService\\Services\\IServices\\IApiManageService.cs",
@@ -140,12 +153,11 @@
               "RelativeToolTip": "WatcherService\\Services\\IServices\\IApiManageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T14:10:47.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T14:10:47.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ConfigController.cs",
               "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\Controllers\\ConfigController.cs",
               "RelativeDocumentMoniker": "WatcherService\\Controllers\\ConfigController.cs",
@@ -158,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\haipa\\OneDrive\\Desktop\\sasa\\WatcherService\\WatcherService\\AutoMapper\\MappingConfig.cs",
               "RelativeDocumentMoniker": "WatcherService\\AutoMapper\\MappingConfig.cs",
@@ -166,8 +178,7 @@
               "RelativeToolTip": "WatcherService\\AutoMapper\\MappingConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T14:08:12.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T14:08:12.799Z"
             }
           ]
         }
